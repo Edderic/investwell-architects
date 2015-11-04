@@ -1,5 +1,4 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
 
 gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
