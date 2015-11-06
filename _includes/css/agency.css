@@ -635,6 +635,11 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    height: 200px;
+}
+
+p.left-aligned {
+  text-align: left;
 }
 
 .team-member h4 {
