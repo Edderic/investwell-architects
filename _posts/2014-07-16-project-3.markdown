@@ -1,8 +1,8 @@
 ---
-title: Chipolebrok
+title: Chipolbrok
 subtitle: Commercial Office
 layout: default
-modal-id: 3
+modal-id: 10000
 date: 2014-07-16
 img: chipolebrok.jpeg
 thumbnail: chipolebrok.jpeg

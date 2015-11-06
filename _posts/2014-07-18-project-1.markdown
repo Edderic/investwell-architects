@@ -1,15 +1,15 @@
 ---
-title: The Abbey
+title: The Abbey Luxury Retirement Community
 subtitle: Senior Living Facilities
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 10
+date: 2015-07-18
 img: abbey.jpeg
 thumbnail: abbey.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2017
+location: Houston, Texas
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 144 Unit.
 
 ---
