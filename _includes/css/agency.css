@@ -183,6 +183,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: YesevaOne, "Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.color.primary }};
+    text-shadow: 2px 2px black;
 }
 
 .navbar-default .navbar-brand:hover,
