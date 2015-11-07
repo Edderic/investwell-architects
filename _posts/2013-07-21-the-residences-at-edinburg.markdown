@@ -14,5 +14,6 @@ project-date: 2013
 location: Edinburg, Texas
 description: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link: http://www.residenceatedinburg.com/
+logo: logo.png
 
 ---

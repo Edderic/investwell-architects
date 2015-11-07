@@ -12,7 +12,8 @@ thumbnail: cr1.jpg
 alt: image-alt
 project-date: 2012
 location: Lufkin, Texas
-description: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
+footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link: http://www.liveatcrownridge.com/
+logo: logo.jpg
 
 ---

@@ -2,7 +2,7 @@
 title: Cascadia Apartments
 subtitle: Apartments
 layout: default
-modal-id: 11
+modal-id: Cascadia
 date: 2014-07-24
 subdir: cascadia
 imgOne: c1.jpeg
@@ -12,7 +12,8 @@ thumbnail: c3.jpeg
 alt: image-alt
 project-date: 2014
 location: San Antonio, Texas
-description: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
+description:
+footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link: http://www.cascadiaapts.com/
 
 ---
