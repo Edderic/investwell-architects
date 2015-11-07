@@ -1,0 +1,18 @@
+---
+title: The Abbey Luxury Retirement Community
+subtitle: Senior Living Facilities
+layout: default
+modal-id: 13
+date: 2015-01-18
+subdir: abbey
+imgOne: a1.jpg
+imgTwo: a2.jpg
+imgThree: a3.jpg
+thumbnail: a1.jpg
+alt: image-alt
+project-date: 2015
+location: Houston, Texas
+description: 144 Unit.
+link: http://www.abbeywp.com/
+
+---

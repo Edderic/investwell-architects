@@ -10,7 +10,7 @@ imgTwo: lh2.jpg
 imgThree: lh1.jpg
 thumbnail: lh1.jpg
 alt: image-alt
-project-date: 2009
+project-date: 2011
 location: Selma, Texas
 description: 356 Units. 3 Stories. Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link: http://www.lookouthollow.com/
