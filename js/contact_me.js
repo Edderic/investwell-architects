@@ -13,7 +13,12 @@ $(function() {
             var email = $("input#email").val();
             var phone = $("input#phone").val();
             var subject = $("input#subject").val();
-            var message = $("textarea#message").val();
+            var message = "Phone Number: "+ phone + "\n" +
+              "From:" + "\n" + 'investwellarchitects.com' + "\n" +
+              "Name:" + "\n" + name + "\n" +
+              "Email:" + "\n" + email + "\n" +
+              "Subject:" + "\n" + subject + "\n" +
+              "Message:" + "\n\n" + $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
@@ -25,7 +30,6 @@ $(function() {
                 crossDomain: true,
                 data: {
                     name: name,
-                    phone: phone,
                     email: email,
                     subject: subject,
                     message: message
@@ -44,7 +48,10 @@ $(function() {
                     //clear all fields
                     $('#contactForm').trigger("reset");
                 },
-                error: function() {
+                error: function(jqXHR, errorTextStatus, errorThrown) {
+                  console.log('jqXHR', jqXHR);
+                  console.log('errorTextStatus', errorTextStatus);
+                  console.log('errorThrown', errorThrown);
                     // Fail message
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
