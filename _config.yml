@@ -5,8 +5,8 @@ exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefil
 
 # Site settings
 title: "InvestWell Architects, LLC"
-email: edderic.ugaddan@richmond.edu
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: angelica.batac@gmail.com
+description: "At InvestWell Architects you will receive the attention of a small firm with the experience, expertise and know how of a well established firm. We are here to serve you and to make your investments well worth the commitment."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
