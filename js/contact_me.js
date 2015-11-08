@@ -1,5 +1,5 @@
 $(function() {
-
+    var DEBUG = false;
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
@@ -8,17 +8,12 @@ $(function() {
         submitSuccess: function($form, event) {
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
-            var site = $('form#contactForm').attr('action')
+            var site = DEBUG ? 'http://localhost:3011/send' : $('form#contactForm').attr('action')
             var name = $("input#name").val();
             var email = $("input#email").val();
             var phone = $("input#phone").val();
             var subject = $("input#subject").val();
-            var message = "Phone Number: "+ phone + "\n" +
-              "From:" + 'investwellarchitects.com' + "\n" +
-              "Name:" + name + "\n" +
-              "Email:" + email + "\n" +
-              "Subject:" + subject + "\n" +
-              "Message:" + "\n\n" + $("textarea#message").val();
+            var message = $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
