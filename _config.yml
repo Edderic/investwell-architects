@@ -1,4 +1,4 @@
-url: https://y7kim.github.io
+url: https://investwellarchitects.com
 
 gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']

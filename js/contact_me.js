@@ -14,10 +14,10 @@ $(function() {
             var phone = $("input#phone").val();
             var subject = $("input#subject").val();
             var message = "Phone Number: "+ phone + "\n" +
-              "From:" + "\n" + 'investwellarchitects.com' + "\n" +
-              "Name:" + "\n" + name + "\n" +
-              "Email:" + "\n" + email + "\n" +
-              "Subject:" + "\n" + subject + "\n" +
+              "From:" + 'investwellarchitects.com' + "\n" +
+              "Name:" + name + "\n" +
+              "Email:" + email + "\n" +
+              "Subject:" + subject + "\n" +
               "Message:" + "\n\n" + $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
