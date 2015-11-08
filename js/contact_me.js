@@ -21,7 +21,7 @@ $(function() {
             }
             $.ajax({
                 url: site,
-                type: "POST",
+                type: "GET",
                 crossDomain: true,
                 data: {
                     name: name,
