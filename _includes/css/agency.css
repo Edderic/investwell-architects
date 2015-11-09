@@ -669,7 +669,7 @@ section h3.section-subheading {
 }
 
 p.left-aligned {
-  text-align: left;
+  text-align: justify;
 }
 
 .team-member h4 {
@@ -685,6 +685,11 @@ p.left-aligned {
 aside.clients img {
     margin: 50px auto;
 }
+
+/* section#services { */
+    /* background-image: url(../img/blueprint.jpg); */
+    /* background-position: center; */
+/* } */
 
 section#contact {
     background-color: #222;
