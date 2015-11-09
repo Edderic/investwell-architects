@@ -5,6 +5,11 @@
  */
 
 @font-face {
+    font-family:'KennedyDBNormal';
+    src:url('/fonts/KennedyDB-Normal.ttf');
+}
+
+@font-face {
     font-family:'YesevaOne';
     src:url('/fonts/YesevaOne-Regular_v2.otf');
 }
@@ -191,8 +196,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: YesevaOne, "Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.color.primary }};
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,cursive;
+    color: white;
     text-shadow: 2px 2px black;
 }
 
