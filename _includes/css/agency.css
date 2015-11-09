@@ -287,7 +287,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/nebula_bg.jpeg);
+    background-image: url(../img/portfolio/millenium/m3.jpeg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -372,6 +372,11 @@ section h3.section-subheading {
 
 .vertical-spaced {
   margin-top: 45px;
+}
+
+.portfolio-item img {
+  height: 241px;
+  width: 360px;
 }
 
 #portfolio .portfolio-item {
