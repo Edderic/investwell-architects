@@ -25,6 +25,14 @@ body {
   background-color: rgba(0,0,0,0);
 }
 
+.contact-info dt {
+  color: white;
+}
+
+.contact-info dd {
+  color: #{{ site.color.primary}}
+}
+
 .contact-us-now {
 
   margin-top: 30px;
@@ -251,6 +259,16 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
     background-color: #{{ site.color.secondary }};
+}
+
+.hide-when-not-wide {
+  display: none;
+}
+
+@media(min-width:500px) {
+  .hide-when-not-wide {
+    display: block;
+  }
 }
 
 @media(min-width:768px) {
