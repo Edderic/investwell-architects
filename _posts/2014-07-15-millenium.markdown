@@ -8,6 +8,8 @@ subdir: millenium
 imgOne: m1.jpeg
 imgTwo: m2.jpeg
 imgThree: m3.jpeg
+imgFour: m6.jpg
+imgFive: m7.jpg
 thumbnail: m3.jpeg
 alt: image-alt
 project-date: April 2014
