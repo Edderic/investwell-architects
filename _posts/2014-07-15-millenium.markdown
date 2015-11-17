@@ -17,7 +17,7 @@ client: Start Bootstrap
 category: Web Development
 description: Oklahoma University 197 Units/ 698 Beds
 location: Norman, OK
-footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
+footnote:
 link: http://millenniumok.com/
 logo: millenium-logo.svg
 
