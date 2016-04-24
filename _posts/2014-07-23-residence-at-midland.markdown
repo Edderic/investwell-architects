@@ -16,5 +16,6 @@ description:
 footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link: http://www.residenceatmidland.com/
 logo: midland-logo.jpg
+position: 4
 
 ---

@@ -13,5 +13,6 @@ location: Nashville, Tennessee
 description: 251 Units, Luxury Apartments
 footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link:
+position: 9
 
 ---

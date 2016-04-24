@@ -15,5 +15,6 @@ location: Saskatoon, Saskatchewan, Canada
 description: 24 units
 footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link: http://www.blackrockpads.ca/
+position: 6
 
 ---

@@ -18,5 +18,6 @@ location: Houston Texas
 footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link: http://www.chipolbrok.us/
 logo: logo.png
+position: 1
 
 ---

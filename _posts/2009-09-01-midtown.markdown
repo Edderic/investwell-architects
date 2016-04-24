@@ -13,5 +13,6 @@ location: Arlington, Texas
 description: 66 units, 218 beds
 footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
 link: http://www.midtownarlington.com/
+position: 8
 
 ---

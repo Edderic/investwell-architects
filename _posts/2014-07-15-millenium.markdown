@@ -20,5 +20,6 @@ location: Norman, OK
 footnote:
 link: http://millenniumok.com/
 logo: millenium-logo.svg
+position: 2
 
 ---
