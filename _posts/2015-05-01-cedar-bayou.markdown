@@ -5,8 +5,8 @@ layout: default
 modal-id: CedarBayouLynchburgApartments
 date: 2015-05-01
 subdir: cedar_bayou
-imgOne: c1.jpg
-thumbnail: c1.jpg
+imgOne: cedar-bayou-cropped.png
+thumbnail: cedar-bayou-cropped.png
 alt: image-alt
 project-date: 2015
 location: Baytown, TX
