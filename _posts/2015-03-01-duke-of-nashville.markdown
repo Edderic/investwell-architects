@@ -5,8 +5,8 @@ layout: default
 modal-id: DukeOfNashville
 date: 2015-03-01
 subdir: duke_of_nashville
-imgOne: duke-of-nashville-aerial.png
-thumbnail: duke-of-nashville-aerial.png
+imgOne: duke-of-nashville-aerial-1.png
+thumbnail: duke-of-nashville-aerial-thumbnail.png
 alt: image-alt
 project-date: 2015
 location: Nashville, Tennessee
