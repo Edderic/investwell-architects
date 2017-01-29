@@ -708,7 +708,7 @@ section h3.section-subheading {
   background-color: #{{ site.color.primary }};
 }
 
-p.left-aligned {
+.left-aligned {
   text-align: justify;
 }
 
