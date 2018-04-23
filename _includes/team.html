@@ -7,13 +7,16 @@
         <h3 class="section-subheading text-muted"></h3>
       </div>
     </div>
+    {% for member in site.people %}
     <div class="row">
-      {% for member in site.people %}
       <div class="col-sm-12">
         <div class="team-member">
           <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-          <h4>{{ member.name }}, {{ member.organizations }}</h4>
+          <h4>{{ member.name }}</h4>
+          <h5>{{ member.organizations }}</h5>
           <p class="text-muted">{{ member.position }}</p>
+          <p class="text-muted">{{ member.college }}</p>
+          <p class="text-muted">{{ member.degree }}</p>
           <ul class="list-inline social-buttons">
             {% for network in member.social %}
             <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
@@ -22,51 +25,25 @@
           </ul>
         </div>
       </div>
-      {% endfor %}
     </div>
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 text-center">
 
 
         <p class="large left-aligned text-muted">
-        Angelica is a talented, well-traveled architect with a passion for art and
-        design. She is originally from the Philippines and lived in different
-        parts of the world, including Saudi Arabia, Italy and the United States.
-        Angelica earned her Bachelor of Architecture degree at Philadelphia
-        University with honors. She also attended the American University of Rome
-        and the University of Santo Tomas in Manila. She combines creativity
-        and technical expertise to produce solutions.  Throughout her career she
-        has exceeded clients expectations through quality design with schedule
-        and budget in mind.
+          {{ member.blurb }}
         </p>
-
         <p class="large left-aligned text-muted">
-        Angelica worked on several types of projects including luxury residential
-        homes, U.S. embassies, restaurants, nursing facilities, and offices and
-        has been in several publications such as "Greater Philadelphia House and
-        Home Magazine" and the "Dream Homes Books."
+          {{ member.blurb_2 }}
         </p>
-
         <p class="large left-aligned text-muted">
-        In 2009 she moved to Texas and joined Ted Trout Architects & Associates
-        as Project Manager. The projects she worked on included private and
-        publicly-funded (HUD) multifamily/residential apartments, student
-        housing, senior living facilities and commercial offices. In 2012, her
-        design for the Chipolbrok Office Headquarters was a Houston Business
-        Journal Landmark Award Finalist.
+          {{ member.blurb_3 }}
         </p>
-
         <p class="large left-aligned text-muted">
-        Angelica believes in giving back and enjoys serving her community. As a
-        leader, she served as President of the Rotary Club youth division
-        Interact Club. She was also chosen to represent the Philippines in Japan
-        as an ambassador for the Asian Youth Program and was awarded by the
-        Philippine Vice President Gloria Macapagal-Arroyo Leadership Award in
-        1997. She is currently a member of the St. Faustina Catholic Church
-        Building Committee which is the fastest growing church in the Archdiocese
-        of Galveston.
+          {{ member.blurb_4 }}
         </p>
 
     </div>
   </div>
+    {% endfor %}
 </section>

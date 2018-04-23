@@ -19,12 +19,63 @@ people:
 - name: Angelica Batac
   pic: angie_pic1
   position: Registered Architect
+  college: Philadelphia University
+  degree: Bachelor of Science in Architecture
   organizations: AIA, NCARB
+  blurb:  Angelica is a talented, well-traveled architect with a passion for art and design. She is originally from the Philippines and lived in different parts of the world, including Saudi Arabia, Italy and the United States.  Angelica earned her Bachelor of Architecture degree at Philadelphia University with honors. She also attended the American University of Rome and the University of Santo Tomas in Manila. She combines creativity and technical expertise to produce solutions.  Throughout her career she has exceeded clients expectations through quality design with schedule and budget in mind.
+  blurb_2:  Angelica worked on several types of projects including luxury residential homes, U.S. embassies, restaurants, nursing facilities, and offices and has been in several publications such as "Greater Philadelphia House and Home Magazine" and the "Dream Homes Books."
+  blurb_3: In 2009 she moved to Texas and joined Ted Trout Architects & Associates as Project Manager. The projects she worked on included private and publicly-funded (HUD) multifamily/residential apartments, student housing, senior living facilities and commercial offices. In 2012, her design for the Chipolbrok Office Headquarters was a Houston Business Journal Landmark Award Finalist.
+  blurb_4: Angelica believes in giving back and enjoys serving her community. As a leader, she served as President of the Rotary Club youth division Interact Club. She was also chosen to represent the Philippines in Japan as an ambassador for the Asian Youth Program and was awarded by the Philippine Vice President Gloria Macapagal-Arroyo Leadership Award in 1997. She is currently a member of the St. Faustina Catholic Church Building Committee which is the fastest growing church in the Archdiocese of Galveston.
+
+
+
 # social:
     # - title: facebook
       # url: https://www.facebook.com/angelica.u.batac/
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+- name: Mylene B. Paraiso
+  pic: angie_pic1
+  position: Architectural Support
+  college: University of Santo Tomas, Manila Philippines (Registered Architect Philippines)
+  degree: Bachelor of Science in Architecture
+  organizations: ""
+  blurb: Mylene has comprehensive experience in construction documentation and construction administration with small scale projects to large scale project, core and shell, interior architecture and tenant fit-out of various healthcare projects. She administers all phases of the construction process from space, program, budget, design process, construction documents to administration, and leading multi- disciplinary teams. She is committed to delivering quality on budget projects by the client’s deadline.
+
+
+
+- name: Veronica Santiago
+  pic: angie_pic1
+  position: Project Manager
+  college: University of Houston, University of Cincinatti
+  degree: Bachelor of Science in Environmental Design, Bachelor of Science in Architectural Engineering
+  organizations: ""
+  blurb: Veronica is an exceptional Project Manger with a vast knowledge in Architecture and Engineering. Prior to joining IWA Veronica worked as a Project Manager for Steinberg Design Collaborative and WGW Architects. The projects she was responsible for overseeing included Luxury Multi Family complexes valuing over $30MM a project. She also has experience with designing restaurant layouts, office layouts, labs, and blast resistant projects.
+
+
+- name: Mike Ferguson
+  pic: angie_pic1
+  position: Architectural Intern II
+  college: University of Kentucky, College of Architecture
+  degree: Bachelor of Architecture
+  organizations: ""
+  blurb: Prior to joining IWA, Mike was an owner/operator of his own firm which provided services for private home owners in new construction and renovations. He also worked as an Architectural Intern for GRW Inc providing Architectural support, graphic / design work and design development for new construction projects.
+
+- name: Juliana S Almeida
+  pic: angie_pic1
+  position: Architectural Designer
+  college: University of Marilia, UNIMAR San Paulo, Brazil (Licensed Architect Brazil)
+  degree: Bachelor's Degree in Architecture
+  organizations: ""
+  blurb: Juliana has over 15 years of experience as a Design Architect and has an excellent sense of design and passion for the profession. The projects she worked on ranges from luxury single family custom homes, commercial projects and Multi-Family projects (mid to high rises). She was a Project Manager at WGW Architect’s responsible for production of conceptual design and construction documents for luxury multi-family housing project while monitoring and managing project schedules.
+
+- name: Vivian Grace
+  pic: angie_pic1
+  position: Architectural Designer / Project Manager Trainee
+  college: Chamran University, Ahvaz, Iran
+  degree: Bachelor's of Science in Architecture
+  organizations: ""
+  blurb: Vivian has 10 years experience in construction and 6 years experience as a Designer (Architectural/ Plumbing). She was a Project Manager for Raymond Engineering and has worked on different projects types which include garden style apartments, midrise and high rise projects.
+  # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
   # - title: twitter
     # url: http://twitter.com/jekyllrb
