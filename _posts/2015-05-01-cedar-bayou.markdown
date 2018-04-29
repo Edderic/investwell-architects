@@ -12,7 +12,7 @@ project-date: 2015
 location: Baytown, TX
 description: 384 Units
 footnote: Worked on while employed as Project Manager at Ted Trout Architects and Associates, LTD.
-link:
+link: https://boterrabay.com
 position: 7
 
 ---
