@@ -17,7 +17,8 @@
           <p class="text-muted">{{ member.position }}</p>
           <p class="text-muted">{{ member.college }}</p>
           <p class="text-muted">{{ member.degree }}</p>
-          <p class="text-muted">{{ site.phone_number }} {{ member.phone_extension }}</p>
+          <p class="text-muted">Office #: {{ site.phone_number }} {{ member.phone_extension }}</p>
+          <p class="text-muted">{{ member.cell_phone_number }}</p>
           <ul class="list-inline social-buttons">
             {% for network in member.social %}
             <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
