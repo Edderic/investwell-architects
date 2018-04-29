@@ -1,0 +1,19 @@
+---
+title: The Mont
+subtitle: Apartments
+layout: default
+modal-id: TheMont
+date: 2018-01-02
+subdir: the_mont
+imgOne: mont_1.png
+imgTwo: mont_2.png
+thumbnail: mont_1.png
+alt: image-alt
+project-date: 2018
+location: Austin, TX
+description: 288 Units – 327,210 sq. ft. (HUD 221(D)(4). Four-stories with surface, carports, and garage parking.
+footnote: InvestWell Architects, LLC.
+link: ''
+position: 11
+
+---
