@@ -16,7 +16,7 @@ project-date: 2018
 location: Conroe, TX
 description: 156 Units -189,784 sq. ft. (Conventional Financing). 1-3 story w/ surface parking and private garages.
 footnote: InvestWell Architects, LLC.
-link: ''
+link: http://woodhavenvillage.com/
 position: 12
 
 ---
