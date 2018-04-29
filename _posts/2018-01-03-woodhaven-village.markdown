@@ -1,6 +1,6 @@
 ---
 title: Woodhaven Village
-subtitle: Independent, Assisted & Memory Care Living
+subtitle: Senior Living Community
 layout: default
 modal-id: WoodhavenVillage
 date: 2018-01-03
