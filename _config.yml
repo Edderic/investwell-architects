@@ -19,10 +19,11 @@ color:
 people:
 - name: Angelica Batac
   pic: angie_pic1
-  position: Registered Architect
+  position: Principal / Founder
+  position_2: "Registered Architect in: CO, LA, MO, NE, SC, TN and TX"
   college: Philadelphia University
   degree: Bachelor of Science in Architecture
-  organizations: AIA, NCARB
+  organizations: RA, AIA, NCARB
   cell_phone_number: "Cell #: 832-774-5635"
   phone_extension: ""
   blurb:  Angelica is a talented, well-traveled architect with a passion for art and design. She is originally from the Philippines and lived in different parts of the world, including Saudi Arabia, Italy and the United States.  Angelica earned her Bachelor of Architecture degree at Philadelphia University with honors. She also attended the American University of Rome and the University of Santo Tomas in Manila. She combines creativity and technical expertise to produce solutions.  Throughout her career she has exceeded clients expectations through quality design with schedule and budget in mind.
@@ -39,6 +40,7 @@ people:
 - name: Mylene B. Paraiso
   pic: mylene
   position: Architectural Support
+  position_2: ""
   college: University of Santo Tomas, Manila Philippines (Registered Architect Philippines)
   degree: Bachelor of Science in Architecture
   organizations: ""
@@ -50,6 +52,7 @@ people:
 - name: Veronica Santiago
   pic: veronica-santiago
   position: Project Manager
+  position_2: ""
   college: University of Houston, University of Cincinatti
   degree: Bachelor of Science in Environmental Design, Bachelor of Science in Architectural Engineering
   organizations: ""
@@ -60,6 +63,7 @@ people:
 - name: Mike Ferguson
   pic: iwa-logo
   position: Architectural Intern II
+  position_2: ""
   college: University of Kentucky, College of Architecture
   degree: Bachelor of Architecture
   organizations: ""
@@ -69,6 +73,7 @@ people:
 - name: Juliana S Almeida
   pic: juliana-almeida
   position: Architectural Designer
+  position_2: ""
   college: University of Marilia, UNIMAR San Paulo, Brazil (Licensed Architect Brazil)
   degree: Bachelor's Degree in Architecture
   organizations: ""
@@ -78,6 +83,7 @@ people:
 - name: Vivian Grace
   pic: vivian_resized
   position: Architectural Designer / Project Manager Trainee
+  position_2: ""
   college: Chamran University, Ahvaz, Iran
   degree: Bachelor's of Science in Architecture
   organizations: ""
