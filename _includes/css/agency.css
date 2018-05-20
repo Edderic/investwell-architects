@@ -14,6 +14,15 @@
     src:url('/fonts/YesevaOne-Regular_v2.otf');
 }
 
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+}
+
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -210,6 +219,10 @@ fieldset[disabled] .btn-xl.active {
     font-size: 16px;
 }
 
+nav {
+    text-shadow: 2px 2px black;
+}
+
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
@@ -306,16 +319,17 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/portfolio/millenium/m5.jpeg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    text-shadow: 2px 2px black;
 }
 
 header .intro-text {
+    position: relative;
     padding-top: 100px;
     padding-bottom: 50px;
 }
