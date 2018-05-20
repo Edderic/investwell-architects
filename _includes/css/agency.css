@@ -278,6 +278,13 @@ nav {
   display: none;
 }
 
+@media only screen
+  {
+    header {
+      background-image: url(../img/portfolio/millenium/m5.jpeg);
+    }
+
+}
 @media(min-width:500px) {
   .hide-when-not-wide {
     display: block;
