@@ -278,7 +278,7 @@ nav {
   display: none;
 }
 
-@media only screen
+@media (max-width: 1366px)
   {
     header {
       background-image: url(../img/portfolio/millenium/m5.jpeg);
