@@ -5,7 +5,7 @@ exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefil
 
 # Site settings
 title: "InvestWell Architects, LLC"
-email: angelica.batac@gmail.com
+email: Angelica.Batac@InvestWellArchitects.com
 description: "At InvestWell Architects you will receive the attention of a small firm with the experience, expertise and know how of a well established firm. We are here to serve you and to make your investments well worth the commitment."
 phone_number: 346-387-7177
 
@@ -26,6 +26,7 @@ people:
   organizations: RA, AIA, NCARB
   cell_phone_number: "Cell #: 832-774-5635"
   phone_extension: ""
+  email: 'Angelica.Batac@InvestWellArchitects.com'
   blurb:  Angelica is a talented, well-traveled architect with a passion for art and design. She is originally from the Philippines and lived in different parts of the world, including Saudi Arabia, Italy and the United States.  Angelica earned her Bachelor of Architecture degree at Philadelphia University with honors. She also attended the American University of Rome and the University of Santo Tomas in Manila. She combines creativity and technical expertise to produce solutions.  Throughout her career she has exceeded clients expectations through quality design with schedule and budget in mind.
   blurb_2:  Angelica worked on several types of projects including luxury residential homes, U.S. embassies, restaurants, nursing facilities, and offices and has been in several publications such as "Greater Philadelphia House and Home Magazine" and the "Dream Homes Books."
   blurb_3: In 2009 she moved to Texas and joined Ted Trout Architects & Associates as Project Manager. The projects she worked on included private and publicly-funded (HUD) multifamily/residential apartments, student housing, senior living facilities and commercial offices. In 2012, her design for the Chipolbrok Office Headquarters was a Houston Business Journal Landmark Award Finalist.
@@ -45,6 +46,7 @@ people:
   degree: Bachelor of Science in Architecture
   organizations: ""
   phone_extension: ""
+  email: 'Mylene.Paraiso@InvestWellArchitects.com'
   blurb: Mylene has comprehensive experience in construction documentation and construction administration with small scale projects to large scale project, core and shell, interior architecture and tenant fit-out of various healthcare projects. She administers all phases of the construction process from space, program, budget, design process, construction documents to administration, and leading multi- disciplinary teams. She is committed to delivering quality on budget projects by the client’s deadline.
 
 
@@ -57,6 +59,7 @@ people:
   degree: Bachelor of Science in Environmental Design, Bachelor of Science in Architectural Engineering
   organizations: ""
   phone_extension: "x78"
+  email: 'VS@InvestWellArchitects.com'
   blurb: Veronica is an exceptional Project Manager with a vast knowledge in Architecture and Engineering. Prior to joining IWA Veronica worked as a Project Manager for Steinberg Design Collaborative and WGW Architects. The projects she was responsible for overseeing included Luxury Multi Family complexes valuing over $30MM a project. She also has experience with designing restaurant layouts, office layouts, labs, and blast resistant projects.
 
 
@@ -68,6 +71,7 @@ people:
   degree: Bachelor of Architecture
   organizations: ""
   phone_extension: "x79"
+  email: 'MF@InvestWellArchitects.com'
   blurb: Prior to joining IWA, Mike was an owner/operator of his own firm which provided services for private home owners in new construction and renovations. He also worked as an Architectural Intern for GRW Inc providing Architectural support, graphic / design work and design development for new construction projects.
 
 - name: Juliana S Almeida
@@ -78,6 +82,7 @@ people:
   degree: Bachelor's Degree in Architecture
   organizations: ""
   phone_extension: ""
+  email: 'JA@InvestWellArchitects.com'
   blurb: Juliana has over 15 years of experience as a Design Architect and has an excellent sense of design and passion for the profession. The projects she worked on ranges from luxury single family custom homes, commercial projects and Multi-Family projects (mid to high rises). She was a Project Manager at WGW Architect’s responsible for production of conceptual design and construction documents for luxury multi-family housing project while monitoring and managing project schedules.
 
 - name: Vivian Grace
@@ -88,6 +93,7 @@ people:
   degree: Bachelor's of Science in Architecture
   organizations: ""
   phone_extension: " x80"
+  email: 'VG@InvestWellArchitects.com'
   blurb: Vivian has 10 years experience in construction and 6 years experience as a Designer (Architectural/ Plumbing). In Iran, she served as Civil Project manager at the National Iranian Oil Product Distribution Company.  In 2010, she moved to Turkey and served as an Architectural Designer for a year. In 2011, she moved to the U.S. and served as a Senior Designer in Power Plumbing, working on midrise, high rises. Afterwards, she was a Project Manager for Raymond Engineering and has worked on different projects types which include garden style apartments, mid-rise and high-rise projects. She has worked on projects worth over $200M. She is very patient and enjoys learning new things every day.
   # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
