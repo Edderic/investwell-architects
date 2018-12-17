@@ -18,7 +18,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Angelica Batac
-  pic: angie_pic1
+  pic: angie_pic2
   position: Principal / Founder
   position_2: "Registered Architect in: CO, LA, MO, NE, SC, TN and TX"
   college: Philadelphia University
@@ -39,7 +39,7 @@ people:
       # url: https://www.facebook.com/angelica.u.batac/
 
 - name: Mylene B. Paraiso
-  pic: mylene
+  pic: mylene-2
   position: Independent Contractor
   position_2: ""
   college: University of Santo Tomas, Manila Philippines (Registered Architect Philippines)
@@ -51,20 +51,21 @@ people:
 
 
 
-- name: Veronica Santiago
-  pic: veronica-santiago
-  position: Project Manager
-  position_2: ""
-  college: University of Houston, University of Cincinatti
-  degree: Bachelor of Science in Environmental Design, Bachelor of Science in Architectural Engineering
+- name: Randy Delpilar
+  pic: randy-delpilar-2
+  position: Architectural Designer
+  position_2: LEED AP
+  college: University of Houston
+  degree: Bachelor of Architecture
   organizations: ""
   phone_extension: "x78"
-  email: 'VS@InvestWellArchitects.com'
-  blurb: Veronica is an exceptional Project Manager with a vast knowledge in Architecture and Engineering. Prior to joining IWA Veronica worked as a Project Manager for Steinberg Design Collaborative and WGW Architects. The projects she was responsible for overseeing included Luxury Multi Family complexes valuing over $30MM a project. She also has experience with designing restaurant layouts, office layouts, labs, and blast resistant projects.
+  email: 'RD@InvestWellArchitects.com'
+  blurb: Randy is an Experienced Architectural Designer with over 14 years experience in the Architecture and construction industry.  Prior to joining IWA, He worked as a Conceptual Designer on high density townhome developments for a National Home builder in Houston.  In addition, Randy has experience working in Architectural firms that specialized in government, DOD projects, K-12 schools and Aviation building types.
+  blurb_2: He graduated with honors as a Cum Laude from The University of Houston Gerald D. Hines College School of Architecture.  Randy is an expert in Revit, AutoCAD, 3D Visualization, Construction Drawings and has a strong background in arts.
 
 
 - name: Mike Ferguson
-  pic: iwa-logo
+  pic: mike-ferguson-2
   position: Architectural Intern II
   position_2: ""
   college: University of Kentucky, College of Architecture
@@ -75,7 +76,7 @@ people:
   blurb: Prior to joining IWA, Mike was an owner/operator of his own firm which provided services for private home owners in new construction and renovations. He also worked as an Architectural Intern for GRW Inc providing Architectural support, graphic / design work and design development for new construction projects.
 
 - name: Juliana S Almeida
-  pic: juliana-almeida
+  pic: juliana-almeida-2
   position: Architectural Designer
   position_2: ""
   college: University of Marilia, UNIMAR San Paulo, Brazil (Licensed Architect Brazil)
@@ -86,7 +87,7 @@ people:
   blurb: Juliana has over 15 years of experience as a Design Architect and has an excellent sense of design and passion for the profession. The projects she worked on ranges from luxury single family custom homes, commercial projects and Multi-Family projects (mid to high rises). She was a Project Manager at WGW Architect’s responsible for production of conceptual design and construction documents for luxury multi-family housing project while monitoring and managing project schedules.
 
 - name: Vivian Grace
-  pic: vivian_resized
+  pic: vivian-2
   position: Architectural Designer / Project Manager Trainee
   position_2: ""
   college: Chamran University, Ahvaz, Iran
