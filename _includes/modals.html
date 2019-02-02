@@ -77,10 +77,14 @@
 
             <hr class='star-primary'>
 
+            {% if post.link %}
+              <iframe width="560" height="315" src="{{ post.youtube_link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            {% endif %}
 
             <p>{{ post.description }}</p>
             <p>{{ post.description_2 }}</p>
             <p>{{ post.description_3 }}</p>
+
 
             <ul class="list-inline item-details">
               <li>Date:
@@ -105,6 +109,28 @@
                   <span>
                     {% if post.link_description %}
                       {{ post.link_description }}
+                    {% else %}
+                      Learn More
+                    {% endif %}
+
+                  </span>
+                </a>
+              </div>
+            </div>
+            {% endif %}
+
+            {% if post.link_2 %}
+            <div class="row">
+              <div class="col-lg-8 col-lg-offset-2">
+                <a class='centered-column' href="{{post.link}}">
+
+                  {% if post.logo_2 %}
+                    <img src="img/portfolio/{{post.subdir}}/{{post.logo}}"/>
+                  {% endif %}
+
+                  <span>
+                    {% if post.link_description_2 %}
+                      {{ post.link_description_2 }}
                     {% else %}
                       Learn More
                     {% endif %}
