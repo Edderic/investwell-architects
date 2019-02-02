@@ -1,0 +1,20 @@
+---
+title: The Mont
+subtitle: Apartments
+layout: default
+modal-id: TheMont
+date: 2019-02-02
+subdir: the_mont
+imgOne: mont_rendering.jpeg
+imgTwo: mont_2.png
+imgThree: mont_1.png
+imgFour: mont_hud.jpg
+thumbnail: mont_rendering.jpeg
+project-date: 2019
+location: Austin, TX
+description: The market-rate, mid-rise, multifamily community is located on 9.4-acres in the Riverside corridor in south Austin, Texas. The community is comprised of five buildings, featuring 288-units with seven different one and two-bedroom floor plans with striking views of downtown Austin.
+description_2: Residents will enjoy the 4,360 sf clubhouse, business center, fitness center, yoga room, resort-style swimming pool, outdoor grilling areas, walking trails, community garden and dog park. The Mont Apartments is expected to be completed in August 2020.
+footnote: InvestWell Architects, LLC.
+position: 12
+
+---
