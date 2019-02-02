@@ -5,10 +5,10 @@ layout: default
 modal-id: TheDukeOfOmaha
 date: 2018-01-01
 subdir: the_duke_of_omaha
-imgOne: The Duke of Omaha Rendering.jpg
-imgTwo: 1.11.2019 Buld 1 NW.JPG
-imgThree: The Duke of Omaha Leasing Office.jpg
-thumbnail: The Duke of Omaha Rendering.jpg
+imgOne: the-duke-of-omaha-rendering.jpg
+imgTwo: 1.11.2019-buld-1-nw.jpg
+imgThree: the-duke-of-omaha-leasing-office.jpg
+thumbnail: the-duke-of-omaha-rendering.jpg
 alt: image-alt
 project-date: 2018
 location: Omaha, Nebraska
