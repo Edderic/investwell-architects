@@ -92,16 +92,29 @@
                 </strong>
               </li>
             </ul>
+
+            {% if post.link %}
             <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
                 <a class='centered-column' href="{{post.link}}">
-                  <img src="img/portfolio/{{post.subdir}}/{{post.logo}}"/>
+
+                  {% if post.logo %}
+                    <img src="img/portfolio/{{post.subdir}}/{{post.logo}}"/>
+                  {% endif %}
+
                   <span>
-                    Learn more
+                    {% if post.link_description %}
+                      {{ post.link_description }}
+                    {% else %}
+                      Learn More
+                    {% endif %}
+
                   </span>
                 </a>
               </div>
             </div>
+            {% endif %}
+
             <div class="row row-footnote">
               <div class="col-lg-12">
                 <span class='text-muted footnote'>This website claims no credit for any images posted on this site unless otherwise noted.
