@@ -6,7 +6,7 @@ modal-id: ResidencesOfSanMarcos
 date: 2018-01-01
 subdir: residences_of_san_marcos
 imgOne: The-Residence-at-San-Marcos-3D-Render.jpg
-imgTwo: Kitchen Area.jpg
+imgTwo: kitchen-area.jpg
 imgThree: Pool.jpg
 imgFour: rsd_1.png
 imgFive: rsd_2.png
