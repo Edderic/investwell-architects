@@ -88,11 +88,25 @@
 
             <ul class="list-inline item-details">
               <li>Date:
-                <strong><a href="{{ post.link }}">{{ post.project-date }}</a>
+                <strong>
+                  {% if post.link %}
+                    <a href="{{ post.link }}">
+                      {{ post.project-date }}
+                    </a>
+                  {% else %}
+                      {{ post.project-date }}
+                  {% endif %}
                 </strong>
               </li>
               <li>Location:
-                <strong><a href="{{ post.link }}">{{ post.location }}</a>
+                <strong>
+                  {% if post.link %}
+                    <a href="{{ post.link }}">
+                      {{ post.location }}
+                    </a>
+                  {% else %}
+                      {{ post.location }}
+                  {% endif %}
                 </strong>
               </li>
             </ul>
