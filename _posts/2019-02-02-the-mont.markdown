@@ -5,10 +5,11 @@ layout: default
 modal-id: TheMont
 date: 2019-02-02
 subdir: the_mont
-imgOne: mont_rendering.jpeg
-imgTwo: mont_2.png
-imgThree: mont_1.png
-imgFour: mont_hud.jpg
+images:
+- name: mont_rendering.jpeg
+- name: mont_2.png
+- name: mont_1.png
+- name: mont_hud.jpg
 thumbnail: mont_rendering.jpeg
 project-date: 2019
 location: Austin, TX

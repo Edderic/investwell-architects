@@ -5,11 +5,12 @@ layout: default
 modal-id: WoodhavenVillage
 date: 2018-01-03
 subdir: woodhaven_village
-imgOne: woodhaven_1.png
-imgTwo: woodhaven_2.png
-imgThree: woodhaven_3.png
-imgFour: woodhaven_4.png
-imgFive: woodhaven_5.png
+images:
+- name: woodhaven_1.png
+- name: woodhaven_2.png
+- name: woodhaven_3.png
+- name: woodhaven_4.png
+- name: woodhaven_5.png
 thumbnail: woodhaven_1.png
 alt: image-alt
 project-date: 2018

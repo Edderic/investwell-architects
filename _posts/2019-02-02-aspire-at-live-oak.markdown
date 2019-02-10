@@ -5,7 +5,8 @@ layout: default
 modal-id: AspireAtLiveOak
 date: 2018-01-02
 subdir: aspire_at_live_oak
-imgOne: aspire_1.png
+images:
+- name: aspire_1.png
 thumbnail: aspire_1.png
 alt: image-alt
 project-date: 2018

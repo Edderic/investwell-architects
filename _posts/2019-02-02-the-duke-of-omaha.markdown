@@ -5,9 +5,10 @@ layout: default
 modal-id: TheDukeOfOmaha
 date: 2018-01-01
 subdir: the_duke_of_omaha
-imgOne: the-duke-of-omaha-rendering.jpg
-imgTwo: 1.11.2019-buld-1-nw.jpg
-imgThree: the-duke-of-omaha-leasing-office.jpg
+images:
+- name: the-duke-of-omaha-rendering.jpg
+- name: 1.11.2019-buld-1-nw.jpg
+- name: the-duke-of-omaha-leasing-office.jpg
 thumbnail: the-duke-of-omaha-rendering.jpg
 alt: image-alt
 project-date: 2018
