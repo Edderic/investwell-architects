@@ -5,11 +5,21 @@ layout: default
 modal-id: ResidencesOfSanMarcos
 date: 2018-01-01
 subdir: residences_of_san_marcos
-imgOne: The-Residence-at-San-Marcos-3D-Render.jpg
-imgTwo: kitchen-area.jpg
-imgThree: Pool.jpg
-imgFour: rsd_1.png
-imgFive: rsd_2.png
+images:
+- name: The-Residence-at-San-Marcos-3D-Render.jpg
+- name: kitchen-area.jpg
+- name: Pool.jpg
+- name: rsd_1.png
+- name: rsd_2.png
+- name: outside-seating.jpeg
+- name: arial-1.jpeg
+- name: arial-pool.jpeg
+- name: arial-2.jpeg
+- name: inside-2.jpeg
+- name: inside-1.jpeg
+- name: front-1.jpeg
+- name: gym.jpeg
+- name: front-2.jpeg
 thumbnail: The-Residence-at-San-Marcos-3D-Render.jpg
 alt: image-alt
 project-date: 2018
