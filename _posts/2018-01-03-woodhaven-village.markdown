@@ -1,5 +1,5 @@
 ---
-title: Woodhaven Village
+title: Woodhaven Village Phase II
 subtitle: Senior Living Community
 layout: default
 modal-id: WoodhavenVillage
